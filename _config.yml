@@ -1,23 +1,23 @@
-title:            Scribble
+title:            Thoughtless Banter 
 description:      A jekyll theme. Because I scribble.
-url:              # Site url.
-signoff:          # Your name.
+url:              http://thoughtlessbanter.com
+signoff:          John Bellone
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
-
+google_analytics: UA-5082921-4
 links:
   - name:         About
     url:          /about
-  - name:         Blog
-    url:          http://muan.co
-    external:     true
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:john.bellone.jr+blog@gmail.com
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/johnbellone
     external:     true
+  - name:         Twitter
+    url:          http://twitter.com/johnbellone
+    external:     true
+
 pygments:         true
 permalink:        pretty
 markdown:         redcarpet
